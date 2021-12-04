@@ -8,7 +8,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     TextView tvResult;
-    float numero1 = 0.0f;
+    float numero3 = 0.0f;
     float numero2 = 0.0f;
     String operacion = "";
 
